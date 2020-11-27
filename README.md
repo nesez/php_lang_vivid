@@ -1,4 +1,4 @@
-# php_lang_vivid
+# php_lang
 Check language and show translated content
 
              <?php
